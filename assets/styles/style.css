@@ -1,0 +1,65 @@
+		body{
+			background-image: url("../images/bg.jpeg");
+			-webkit-background-size: cover;
+			-o-background-size: cover;
+			-moz-background-size: cover;
+			background-size: cover;
+			background-repeat: no-repeat;
+
+
+			font font-family: arial;
+
+
+
+		/*font-family: 'Abril Fatface', cursive;
+		font-family: 'Teko', sans-serif;*/
+		}
+
+		/* FIRST */
+
+		h1{
+			font-family: arial;
+			color: white;
+			font-size: 45px;
+			font-weight: bold;
+			margin-bottom: 0;
+		}
+
+		/* SECOND */
+
+		h2{
+			font-family: arial;
+			color: gray;
+			font-size: 25px;
+			font-weight: bold;
+			margin-top: 0;
+
+		}
+
+		/* THIRD */
+
+		.bio{
+
+			font-family: arial;
+			color: gray;
+			font-size: 15px;
+			margin-top: 1;
+			
+		}
+
+		/* FOURTH */
+
+		.me{
+			height: 150px;
+			border-radius: 100%;
+			border-style: solid;
+			border-color: white;
+			margin-top: 60px;
+		}
+
+	/* FIFTH */
+	#container {
+		width: 500px;
+		margin: 0 auto;
+		text-align: center;
+	}
